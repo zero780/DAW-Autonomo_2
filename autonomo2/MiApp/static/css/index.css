@@ -1,0 +1,29 @@
+section{
+	text-align: center;
+	font-family: "Lato";
+}
+
+body section h2{
+	color: blue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#intro{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+div p{
+	font-size: 20px;
+
+}
+
+#imagen_listado{
+	width: 80px;
+	height: 100px;
+}
+
+#lista li:hover{
+	background-color: #00acee;
+}

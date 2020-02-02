@@ -1,0 +1,23 @@
+section{
+	text-align: center;
+	font-family: "Lato";
+}
+
+body section h2{
+	color: blue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+div p{
+	font-size: 20px;
+}
+
+#imagen_avatar{
+	width: 200px;
+	height: 200px;
+}
+
+#lista li:hover{
+	background-color: #00acee;
+}
